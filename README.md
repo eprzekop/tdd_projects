@@ -1,0 +1,1 @@
+Skeleton TDD projects that go along with this presentation: https://docs.google.com/presentation/d/1dNd0EZVZi3Afg6QDCpBRQPwr5qlSzrl7atYQVWFnFzA/edit?usp=sharing
